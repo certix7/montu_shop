@@ -1,0 +1,4 @@
+basic comands in project :--
+
+
+wget --mirror --convert-links --adjust-extension --page-requisites --no-parent http://moonman-001-site1.btempurl.com/Smiley_Tours/home.html
